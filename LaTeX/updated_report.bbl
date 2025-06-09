@@ -1,0 +1,49 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{dsv_trailer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e200ac9bd969d30c0f318e820be12988}{%
+           family={DSV},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e200ac9bd969d30c0f318e820be12988}
+      \strng{fullhash}{e200ac9bd969d30c0f318e820be12988}
+      \strng{bibnamehash}{e200ac9bd969d30c0f318e820be12988}
+      \strng{authorbibnamehash}{e200ac9bd969d30c0f318e820be12988}
+      \strng{authornamehash}{e200ac9bd969d30c0f318e820be12988}
+      \strng{authorfullhash}{e200ac9bd969d30c0f318e820be12988}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Specifiche del rimorchio telonato}
+      \verb{urlraw}
+      \verb https://www.dsv.com/it-it/le-nostre-soluzioni/mezzi-di-trasporto/trasporto-stradale/misure-del-rimorchio/rimorchio-telonato
+      \endverb
+      \verb{url}
+      \verb https://www.dsv.com/it-it/le-nostre-soluzioni/mezzi-di-trasporto/trasporto-stradale/misure-del-rimorchio/rimorchio-telonato
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

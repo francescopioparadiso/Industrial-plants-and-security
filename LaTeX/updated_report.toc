@@ -1,0 +1,76 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {section}{\numberline {1}Calcolo dei fabbisogni}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Calcolo dei volumi}{6}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Ciclo di assemblaggio}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Distinta base}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Diagramma di flusso}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Calcolo delle postazioni per assemblaggio [metodo RPW]}{8}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Processo produttivo}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Calcolo del numero di macchine/linee}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Calcolo OEE}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}OEE singola postazione}{10}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}OEE reparto}{10}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}OEE linee di assemblaggio}{11}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {4}Elaborati gestionali}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Matrice WBS-OBS}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Gantt}{13}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Layout}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Scelta del tipo di layout [L, U, lineare]}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Stesura del layout su CAD}{15}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Area interna}{15}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Area ricarica carrelli}{15}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Area esterna}{16}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}Collocazione stabilimento}{18}{subsubsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.3}Dimensionamento aree produttive}{19}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Indici di prestazione logistici}{19}{subsubsection.5.3.1}%
+\contentsline {section}{\numberline {6}Studio area produttiva}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Studio della postazione di saldatura}{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Studio della postazione di assemblaggio}{20}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Valutazione e trattamento scarti}{20}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Material handling}{21}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Calcoli relativi al foglio MAG BUFFER}{21}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Indice di rotazione}{21}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Fabbisogni mensili}{21}{subsubsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.3}Capacità dei magazzini e buffer}{22}{subsubsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.2}Scelta del tipo di carrelli elevatori}{23}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Dimensionamento magazzino MP}{24}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Magazzino Bifrontale}{24}{subsubsection.7.3.1}%
+\contentsline {paragraph}{Dimensionamento statico}{24}{section*.20}%
+\contentsline {subsubsection}{\numberline {7.3.2}Magazzino Drive-Through}{26}{subsubsection.7.3.2}%
+\contentsline {paragraph}{Dimensionamento statico}{26}{section*.22}%
+\contentsline {paragraph}{Dimensionamento dinamico}{27}{section*.23}%
+\contentsline {subsection}{\numberline {7.4}Dimensionamento magazzino BUFFER}{28}{subsection.7.4}%
+\contentsline {subsubsection}{\numberline {7.4.1}Magazzino Bifrontale}{28}{subsubsection.7.4.1}%
+\contentsline {paragraph}{Dimensionamento statico}{29}{section*.25}%
+\contentsline {paragraph}{Dimensionamento dinamico}{30}{section*.26}%
+\contentsline {subsubsection}{\numberline {7.4.2}Magazzino Drive Through}{31}{subsubsection.7.4.2}%
+\contentsline {paragraph}{Dimensionamento dinamico}{32}{section*.28}%
+\contentsline {subsection}{\numberline {7.5}Dimensionamento magazzino PF}{34}{subsection.7.5}%
+\contentsline {paragraph}{Dimensionamento statico}{34}{section*.29}%
+\contentsline {paragraph}{Dimensionamento dinamico}{36}{section*.31}%
+\contentsline {subsection}{\numberline {7.6}Analisi ABC}{38}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Dimensionamento area di picking}{39}{subsection.7.7}%
+\contentsline {subsubsection}{\numberline {7.7.1}Calcoli relativi alla domanda}{39}{subsubsection.7.7.1}%
+\contentsline {subsubsection}{\numberline {7.7.2}Produzione kit}{39}{subsubsection.7.7.2}%
+\contentsline {subsubsection}{\numberline {7.7.3}Distribuzione e tempistiche}{39}{subsubsection.7.7.3}%
+\contentsline {subsection}{\numberline {7.8}Dimensionamento banchine carico/scarico}{41}{subsection.7.8}%
+\contentsline {subsubsection}{\numberline {7.8.1}Calcoli relativi a camion}{41}{subsubsection.7.8.1}%
+\contentsline {subsubsection}{\numberline {7.8.2}Camion e banchine in entrata}{41}{subsubsection.7.8.2}%
+\contentsline {subsubsection}{\numberline {7.8.3}Area di ricevimento}{41}{subsubsection.7.8.3}%
+\contentsline {subsection}{\numberline {7.9}Calcolo trasporti interni}{42}{subsection.7.9}%
+\contentsline {section}{\numberline {8}Personale e aree accessorie}{43}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Determinazione del numero di addetti diretti e indiretti}{43}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Dimensionamento impianto di aria compressa}{43}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Sicurezza}{46}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Dimensionamento uscite di sicurezza anti incendio}{46}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Applicazione del metodo di Niosh}{47}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Saldatura}{47}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}Picking (carico)}{47}{subsubsection.9.2.2}%
+\contentsline {section}{\numberline {10}Punti facoltativi}{48}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Value Stream Map}{48}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Valutazione ottimizzazioni processo produttivo}{49}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}Ottimizzazione dell'OEE}{49}{subsubsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.3}Calcolo EPEI}{50}{subsection.10.3}%
+\contentsline {section}{\numberline {11}Valutazione dell'investimento}{51}{section.11}%
+\contentsline {section}{\numberline {12}Allegati}{52}{section.12}%
